@@ -1,9 +1,21 @@
 {
   "name": "koaloha",
   "version": "0.1.0",
+  "description": "koaloha",
   "scripts": {
     "test": "grunt test"
   },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mintrupt/koaloha.git"
+  },
+  "author": "류형욱",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mintrupt/koaloha/issues"
+  },
+  "homepage": "https://github.com/mintrupt/koaloha",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-concat": "~0.4.0",
